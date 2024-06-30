@@ -1,0 +1,29 @@
+﻿@model EntityLayer.Concrete.Product
+@{
+    ViewData["Title"] = "AddProduct";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Urun Ekle</h2>
+
+<form asp-action="AddProduct" method="post">
+
+    @using (Html.BeginForm("AddProduct", "AdminProduct", FormMethod.Post, new { @class = "form" }))
+    {
+        <div class="mb-3">
+            <label for="ProductCode" class="form-label">Urun Kodu</label>
+            @Html.TextBoxFor(x => x.ProductCode, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.ProductCode, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            <label for="ProductName" class="form-label">Urun Kodu</label>
+            @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.ProductName, "", new { @class = "text-danger" })
+        </div>
+
+       
+
+        <button type="submit" class="btn btn-primary">Urun Oluştur</button>
+    }
+</form>

@@ -1,0 +1,11 @@
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\bin\Debug\net7.0\EntityLayer.deps.json
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\obj\Debug\net7.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\obj\Debug\net7.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\obj\Debug\net7.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\obj\Debug\net7.0\EntityLayer.dll
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\obj\Debug\net7.0\refint\EntityLayer.dll
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\obj\Debug\net7.0\EntityLayer.pdb
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\EntityLayer\obj\Debug\net7.0\ref\EntityLayer.dll

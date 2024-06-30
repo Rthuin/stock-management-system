@@ -1,0 +1,401 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Stock Manegement.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Stock Manegement.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\css\\admin-style.css",
+      "PackagePath": "staticwebassets\\css\\admin-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\README.md",
+      "PackagePath": "staticwebassets\\web\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\about-banner.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\about-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\about-shape-1.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\about-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\about-shape-2.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\about-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\bg-6.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\bg-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\feature-icon-1.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\feature-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\feature-icon-2.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\feature-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\feature-icon-3.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\feature-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\hero-banner.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\hero-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\hero-shape.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\hero-shape.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\newsletter-banner.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\newsletter-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\project-1.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\project-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\project-2.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\project-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\project-3.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\project-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\project-4.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\project-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\project-5.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\project-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\project-6.jpg",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\project-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\service-icon-1.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\service-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\service-icon-2.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\service-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\service-icon-3.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\service-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\service-icon-4.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\service-icon-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\service-icon-5.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\service-icon-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\images\\service-icon-6.png",
+      "PackagePath": "staticwebassets\\web\\assets\\images\\service-icon-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\web\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\favicon.svg",
+      "PackagePath": "staticwebassets\\web\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\index.txt",
+      "PackagePath": "staticwebassets\\web\\index.txt"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\readme-images\\desktop.png",
+      "PackagePath": "staticwebassets\\web\\readme-images\\desktop.png"
+    },
+    {
+      "Id": "C:\\Users\\Batuhan Dogan\\source\\repos\\Stock Manegement\\Stock Manegement\\wwwroot\\web\\style-guide.md",
+      "PackagePath": "staticwebassets\\web\\style-guide.md"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Stock Manegement.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Stock Manegement.props",
+      "PackagePath": "build\\Stock Manegement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Stock Manegement.props",
+      "PackagePath": "buildMultiTargeting\\Stock Manegement.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Stock Manegement.props",
+      "PackagePath": "buildTransitive\\Stock Manegement.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

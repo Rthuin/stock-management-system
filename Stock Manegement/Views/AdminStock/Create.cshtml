@@ -1,0 +1,43 @@
+﻿@model EntityLayer.Concrete.Stock
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Create New Stock</h2>
+
+<form asp-action="Create" method="post">
+
+    @using (Html.BeginForm("Create", "AdminStock", FormMethod.Post, new { @class = "form" }))
+    {
+        <div class="mb-3">
+            <label for="StockCode" class="form-label">Stok Kodu</label>
+            @Html.TextBoxFor(x => x.StockCode, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.StockCode, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            <label for="ProductName" class="form-label">Ürün</label>
+            <select asp-for="ProductCode" asp-items="@ViewBag.Products" class="form-control">
+                <option value="">-- Ürün Seçiniz --</option>
+            </select>
+            @Html.ValidationMessageFor(x => x.ProductCode, "", new { @class = "text-danger" })
+        </div>
+        <div class="mb-3">
+            <label for="Stok Sahibi" class="form-label">Stok Sahibi</label>
+            <select asp-for="UserID" asp-items="@ViewBag.Users" class="form-control">
+                <option value="">-- Kullanici Seçiniz --</option>
+            </select>
+            @Html.ValidationMessageFor(x => x.ProductCode, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="mb-3">
+            <label for="Quantity" class="form-label">Adet</label>
+            @Html.TextBoxFor(x => x.Quantity, new { @class = "form-control" })
+            @Html.ValidationMessageFor(x => x.Quantity, "", new { @class = "text-danger" })
+        </div>
+
+        <button type="submit" class="btn btn-primary">Stok Oluştur</button>
+    }
+</form>

@@ -1,0 +1,50 @@
+﻿@page
+@model Stock_Manegement.Pages.AdminHomePageModel
+@{
+    ViewData["Title"] = "Admin Home Page";
+}
+
+<h1>Welcome, @Model.AdminName!</h1>
+
+<div>
+    <h2>Product List</h2>
+    <ul>
+        @foreach (var product in Model.Products)
+        {
+            <li>@product.ProductName - Code: @product.ProductCode</li>
+        }
+    </ul>
+</div>
+
+<div>
+    <h2>Stocks</h2>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Stock Code</th>
+                <th>Product</th>
+                <th>Quantity</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var stock in Model.Stocks)
+            {
+                <tr>
+                    <td>@stock.StockCode</td>
+                    <td>@stock.Product.ProductName</td>
+                    <td>@stock.Quantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div>
+    <h2>Users</h2>
+    <ul>
+        @foreach (var user in Model.Users)
+        {
+            <li>@user.UserName - Email: @user.UserEmail</li>
+        }
+    </ul>
+</div>

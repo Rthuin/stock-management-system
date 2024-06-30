@@ -1,0 +1,36 @@
+﻿@model List<EntityLayer.Concrete.Product>
+
+@{
+    ViewData["Title"] = "View";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<html>
+<head>
+    <title>Admin List</title>
+</head>
+<body>
+    <table class="table table-bordered">
+        <tr>
+            <th>AdminID</th>
+            <th>Email</th>
+            <th>Password</th>
+            <th>Role</th>
+            <th>Username</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ProductID</td>
+                <td>@item.ProductName</td>
+                <td>@item.ProductCode</td>
+                <td><a href="#" class="btn btn-warning">Detaylar</a></td>
+                <td><a href="#" class="btn btn-danger">Sil</a></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

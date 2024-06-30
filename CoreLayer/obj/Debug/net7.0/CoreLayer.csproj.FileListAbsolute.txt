@@ -1,0 +1,11 @@
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\bin\Debug\net7.0\CoreLayer.deps.json
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\bin\Debug\net7.0\CoreLayer.dll
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\bin\Debug\net7.0\CoreLayer.pdb
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\obj\Debug\net7.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\obj\Debug\net7.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\obj\Debug\net7.0\CoreLayer.AssemblyInfo.cs
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\obj\Debug\net7.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\obj\Debug\net7.0\CoreLayer.dll
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\obj\Debug\net7.0\refint\CoreLayer.dll
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\obj\Debug\net7.0\CoreLayer.pdb
+C:\Users\Batuhan Dogan\source\repos\Stock Manegement\CoreLayer\obj\Debug\net7.0\ref\CoreLayer.dll

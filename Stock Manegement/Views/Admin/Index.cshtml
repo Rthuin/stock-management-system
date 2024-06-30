@@ -1,0 +1,12 @@
+﻿@model EntityLayer.Concrete.Admin
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@{
+    ViewData["Title"] = "Admin Home Page";
+    var adminId = ViewData["AdminId"];
+}
+
+<h2>Welcome, @Model.AdminName!</h2>

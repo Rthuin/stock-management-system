@@ -1,0 +1,41 @@
+﻿@model List<EntityLayer.Concrete.Stock>
+@{
+    ViewData["Title"] = "ShowStock";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h1>ShowStock</h1>
+
+
+<div class="table-container">
+    <h2 class="text-center mb-4">ShowStocks</h2>
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+
+                <th>Stock Kodu</th>
+                <th>Urun Kodu</th>
+                <th>Urun Ismi</th>
+                <th>Olusturan Yonetici</th>
+                <th>Quantity</th>
+                <th>Date</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.StockCode</td>
+                    <td>@item.ProductCode</td>
+                    <td>@item.Product.ProductName</td>
+                    <td>@item.Admin.AdminName</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Date</td>
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

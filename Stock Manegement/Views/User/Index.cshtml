@@ -1,0 +1,11 @@
+﻿@model EntityLayer.Concrete.User
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+@{
+    ViewData["Title"] = "User Home Page";
+    var adminId = ViewData["UserId"];
+}
+<h1>Welcome @Model.UserName</h1>
+

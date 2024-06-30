@@ -1,0 +1,42 @@
+﻿@model List<EntityLayer.Concrete.User>
+
+@{
+    ViewData["Title"] = "Onaylanmış Kullanıcılar";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="table-container">
+    <h2 class="text-center mb-4">Onaylanmış Kullanıcılar</h2>
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">Kullanici ID</th>
+                <th scope="col">Ad Soyad</th>
+                <th scope="col">Email</th>
+                <th scope="col">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                if (user.IsApproved)
+                {
+                    <tr>
+                        <td>@user.UserID</td>
+                        <td>@user.UserName</td>
+                        <td>@user.UserEmail</td>
+                        <td>
+                            <a asp-controller="AdminPanel" asp-action="DeleteUser" asp-route-userId="@user.UserID" class="btn btn-danger">Sil</a>
+                        </td>
+                    </tr>
+                }
+
+            }
+        </tbody>
+    </table>
+</div>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info mt-4">@TempData["Message"]</div>
+}

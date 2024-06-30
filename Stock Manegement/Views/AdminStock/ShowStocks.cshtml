@@ -1,0 +1,48 @@
+﻿@model List<EntityLayer.Concrete.Stock>
+
+@{
+    ViewData["Title"] = "ShowStocks";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+
+<div class="table-container">
+    <h2 class="text-center mb-4">ShowStocks</h2>
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+
+                <th>Stock Code</th>
+                <th>Product Code</th>
+                <th>Product Name</th>
+                <th>Created By</th>
+                <th>Quantity</th>
+                <th>Olusturulan Tarih</th>
+                <th scope="col">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.StockCode</td>
+                    <td>@item.ProductCode</td>
+                    <td>@item.Product.ProductName</td>
+                    <td>@item.Admin.AdminName</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Date</td>
+                    <td>
+                        <a asp-controller="AdminStock" asp-action="RemoveStock" asp-route-stockId="@item.StockID" class="btn btn-danger">Sil</a>
+                    </td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info mt-4">@TempData["Message"]</div>
+}

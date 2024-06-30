@@ -1,0 +1,36 @@
+﻿@model List<EntityLayer.Concrete.Stock>
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.min.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.rtl.css" rel="stylesheet" />
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<html>
+<head>
+    <title>Admin List</title>
+</head>
+<body>
+    <table class="table table-bordered">
+        <tr>
+            <th>Stock ID</th>
+            <th>Product Code</th>
+            <th>Product Name</th>
+            <th>Created By</th>
+            <th>Quantity</th>
+            <th></th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.StockID</td>
+                <td>@item.ProductCode</td>
+                <td>@item.Product.ProductName</td>
+                <td>@item.Admin.AdminName</td>
+                <td>@item.Quantity</td>
+                <td><a href="#" class="btn btn-warning">Detaylar</a></td>
+                <td><a href="#" class="btn btn-danger">Sil</a></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

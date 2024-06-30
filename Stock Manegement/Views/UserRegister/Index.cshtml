@@ -1,0 +1,67 @@
+﻿@model EntityLayer.Concrete.User
+@{
+    ViewData["Title"] = "User Registration";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        .custom-card {
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .form-label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="card custom-card">
+                    <div class="card-body">
+                        <h1 class="card-title text-center mb-4">Hesap Oluşturun</h1>
+
+                        @using (Html.BeginForm("Index", "UserRegister", FormMethod.Post, new { @class = "form" }))
+                        {
+                            <div class="mb-3">
+                                @Html.LabelFor(x => x.UserName, htmlAttributes: new { @class = "form-label" })
+                                @Html.TextBoxFor(x => x.UserName, new { @class = "form-control", placeholder = "İsim ve Soyisim" })
+                                @Html.ValidationMessageFor(x => x.UserName, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="mb-3">
+                                @Html.LabelFor(x => x.UserEmail, htmlAttributes: new { @class = "form-label" })
+                                @Html.TextBoxFor(x => x.UserEmail, new { @class = "form-control", placeholder = "Email" })
+                                @Html.ValidationMessageFor(x => x.UserEmail, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="mb-3">
+                                @Html.LabelFor(x => x.UserPassword, htmlAttributes: new { @class = "form-label" })
+                                @Html.PasswordFor(x => x.UserPassword, new { @class = "form-control", placeholder = "Şifre" })
+                                @Html.ValidationMessageFor(x => x.UserPassword, "", new { @class = "text-danger" })
+                            </div>
+
+                            <button type="submit" class="btn btn-primary btn-block">Kaydol</button>
+                        }
+                    </div>
+                </div>
+                <div class="text-center mt-3">
+                    <p>Zaten hesabınız var mı? <a href="@Url.Action("Login","UserAccount")">Giriş yapın!</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
