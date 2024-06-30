@@ -17,7 +17,7 @@ This project is designed as a web application allowing users to manage stocks. U
               "Default": "Server=YOUR_SERVER_NAME;Database=DbStockManagement;Trusted_Connection=True;TrustServerCertificate=true"
           }
 
-3. Using Migrations: Open the Package Manager Console in Visual Studio (View > Other Windows > Package Manager Console). Run the following commands to create the database using migrations:
+3. Using Migrations: Open the Package Manager Console in Visual Studio (View > Other Windows > Package Manager Console). Make sure that the "Default project" in the Package Manager Console is set to "DataAccessLayer". Run the following commands to create the database using migrations:
 
        Add-Migration InitialCreate
        Update-Database
@@ -55,7 +55,7 @@ Bu proje, bir web uygulaması olarak tasarlanmış olup kullanıcıların stokla
         }
 
 
-3. Migration Kullanımı: Visual Studio'da Package Manager Console'u açın (Tools > NuGet Package Manager > Package Manager Console). Aşağıdaki komutları sırasıyla çalıştırarak migrations özelliğini kullanarak veritabanınızı oluşturun:
+3. Migration Kullanımı: Visual Studio'da Package Manager Console'u açın (Tools > NuGet Package Manager > Package Manager Console). Package Manager Console'da "varsayılan proje"(Default project) olarak "DataAccessLayer'ın" ayarlı olduğundan emin olun. Aşağıdaki komutları sırasıyla çalıştırarak migrations özelliğini kullanarak veritabanınızı oluşturun:
 
 
         Add-Migration InitialCreate
