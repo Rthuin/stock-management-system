@@ -1,3 +1,5 @@
+## English
+
 # Stock Management Project
 
 Stock Management Project is a web application developed using ASP.NET Core, Entity Framework Core, and MSSQL Server to manage stock operations.
@@ -33,7 +35,7 @@ This project is designed as a web application allowing users to manage stocks. U
 This project is licensed under the MIT License. For detailed information, see the LICENSE file.
 
 
-
+## Türkçe
 
 # Stock Management Projesi
 
